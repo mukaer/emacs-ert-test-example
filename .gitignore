@@ -3,3 +3,6 @@
 
 # Packaging
 .cask
+
+# downlod packages
+ert/el-get
