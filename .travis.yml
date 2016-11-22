@@ -1,0 +1,7 @@
+language: emacs-lisp
+env:
+ matrix:
+   - EMACS=emacs24
+script:
+  emacs --version
+  make
