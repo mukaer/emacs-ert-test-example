@@ -31,11 +31,12 @@ make test
 
 ## Scrennshot
 normal
-![normal](img/normal.jp)
+
+![normal](/img/normal.jpg)
 
 
 failed
-![normal](img/failed.jp)
+![normal](/img/failed.jpg)
 
 ## a list of reference
 - https://github.com/rolandwalker/emacs-travis
