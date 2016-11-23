@@ -2,7 +2,7 @@
 
 (ert-deftest f-inc ()
   "test def inc"
-  (should (equal (f-inc 1)  3))
+  (should (equal (f-inc 1)  2))
   )
 
 (ert-deftest f-inc-two ()
