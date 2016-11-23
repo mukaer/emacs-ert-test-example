@@ -3,5 +3,5 @@ env:
  matrix:
    - EMACS=emacs24
 script:
-  emacs --version
-  make
+  - emacs --version
+  - make
