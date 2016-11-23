@@ -5,6 +5,7 @@
 direcotory
 ```
 .traivs.yml
+Makefile
 functions.el
 ert/
     init.el
@@ -16,7 +17,7 @@ ert/
 
 
 
-
+test command
 ``` shell
 make test
 ```
