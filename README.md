@@ -36,6 +36,7 @@ normal
 
 
 failed
+
 ![normal](/img/failed.jpg)
 
 ## a list of reference
